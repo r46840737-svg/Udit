@@ -1,0 +1,6 @@
+{
+  "name": "iOS Calculator",
+  "description": "Pixel-perfect Apple iOS Calculator with standard & scientific modes, swipe-to-delete, history tape, unit conversions, haptic sounds, and iPhone frame.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
